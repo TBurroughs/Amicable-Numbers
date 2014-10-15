@@ -1,6 +1,6 @@
 # Amicable-Numbers #
 
-Ruby program that generates pairs of amicable numbers
+Ruby application that generates pairs of amicable numbers
 
 ## What are amicable numbers? ##
 
